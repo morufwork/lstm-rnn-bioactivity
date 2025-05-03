@@ -71,6 +71,4 @@ python predict.py --input smiles_input.txt
 - 🧬 **Interpretability in cheminformatics**
 - 📚 **Educational demos for deep learning in bioinformatics**
 
-## 📄 License
 
-This project is licensed under the **MIT License**. See the [LICENSE](LICENSE) file for details.
