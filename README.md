@@ -34,27 +34,6 @@ This project addresses these challenges using **deep learning** to autonomously 
 - **Dense Output Layer** (Sigmoid activation)
 
 
-### ✅ How it will look on GitHub:
-
----
-
-## 🚀 How to Run
-
-```bash
-# Clone the repository
-git clone https://github.com/morufwork/lstm-rnn-bioactivity.git
-cd lstm-rnn-bioactivity
-
-# Install dependencies
-pip install -r requirements.txt
-
-# Train the model
-python train.py
-
-# Run predictions
-python predict.py --input smiles_input.txt
-```
-
 ## 🔬 Model Interpretability
 
 **SHAP (SHapley Additive exPlanations)** was used to interpret model predictions. Key insights include:
